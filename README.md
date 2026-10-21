@@ -1,6 +1,8 @@
 # Gallium (row staggered)
 
-The Gallium (row staggered) keyboard layout.
+Contains the [Gallium keyboard layout][1] (row staggered variant).
+
+[1]: https://github.com/GalileoBlues/Gallium/
 
 ## macOS
 
